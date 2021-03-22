@@ -1,6 +1,8 @@
 using System;
 using System.IO;
+using System.Text;
 using System.Text.Json;
+using System.Linq;
 
 namespace cs_blockchain
 {
@@ -27,17 +29,44 @@ namespace cs_blockchain
         public void write_new_block( Block block )
         {
             string data = JsonSerializer.Serialize( block );
+
+            try
+            {
+                using (FileStream fs = File.Create(ledger))
+                {
+                    byte[] info = new UTF8Encoding(true).GetBytes(data);
+                    fs.Write(info, 0, info.Length);
+                }
+
+                using (StreamReader sr = File.OpenText(ledger))
+                {
+                    string s = "";
+                    while ((s = sr.ReadLine()) != null)
+                    {
+                        Console.WriteLine(s);
+                    }
+                }
+            } 
+            
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
             
         }
 
         public int chain_size()
         {
-            return 0;
+
+            int size = File.ReadLines(ledger).Count();
+            return size;
         }
 
         public string last_block()
         {
-            return "abcdefg";
+            var last_line = File.ReadLines(ledger).Last();
+            Block hash = JsonSerializer.Deserialize<Block>( last_line );
+            return hash.last_hash.ToString();
         }
     }
 }

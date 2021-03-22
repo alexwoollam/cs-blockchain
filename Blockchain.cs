@@ -14,8 +14,10 @@ namespace cs_blockchain
 
             current_chain_length = ledger.chain_size();
             previous_hash = ledger.last_block();
-
+            
         }
+
+
 
     }
 }
