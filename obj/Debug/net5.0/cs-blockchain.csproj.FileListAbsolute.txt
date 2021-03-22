@@ -1,0 +1,16 @@
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.csprojAssemblyReference.cache
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.GeneratedMSBuildEditorConfig.editorconfig
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.AssemblyInfoInputs.cache
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.AssemblyInfo.cs
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.csproj.CoreCompileInputs.cache
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/cs-blockchain
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/cs-blockchain.deps.json
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/cs-blockchain.runtimeconfig.json
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/cs-blockchain.runtimeconfig.dev.json
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/cs-blockchain.dll
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/ref/cs-blockchain.dll
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/cs-blockchain.pdb
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.dll
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/ref/cs-blockchain.dll
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.pdb
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.genruntimeconfig.cache
