@@ -27,8 +27,7 @@ namespace cs_blockchain
         public void write_new_block( Block block )
         {
             string data = JsonSerializer.Serialize( block );
-            Console.WriteLine( data );//returns {}, empty object?
-            Console.WriteLine( block );///returns namespace/classname?
+            
         }
 
         public int chain_size()
