@@ -12,12 +12,10 @@ namespace cs_blockchain
 
         public Block( int id, string time_stamp, string data, string last_hash )
         {
-
             this.id = id;
             this.time_stamp = time_stamp;
             this.data = data;
-            this.last_hash = last_hash;
-            
+            this.last_hash = last_hash; 
         }
 
     }

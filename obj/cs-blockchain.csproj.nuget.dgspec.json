@@ -14,13 +14,13 @@
         "outputPath": "/c/Users/WoollamA/www/cs-blockchain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+          "/c/Users/WoollamA/www/cs-blockchain/nuget.config",
           "/home/alex/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "/home/alex/.nuget/NuGet/Newtonsoft": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +38,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

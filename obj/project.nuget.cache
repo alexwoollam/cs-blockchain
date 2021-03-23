@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "OVAy180dY82/9dO0AZQ7fBg4lqchyGyvFLPKj21G9ylK6VRy45Q4UOZ9RU6kM5igP7AXSgtjxBSAh3Pf/oIAfA==",
+  "dgSpecHash": "yCSPQ2N7aVXXQhEgP4Gi984goH8ZFyyI0/Ldg3sUqkopKuqA4fto+wYAg1NZmcXvJa/AWmrL51yakhbg36pA2w==",
   "success": true,
   "projectFilePath": "/c/Users/WoollamA/www/cs-blockchain/cs-blockchain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/microsoft.extensions.configuration/3.1.13/microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.13/microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.13/microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.extensions.configuration.json/3.1.13/microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.13/microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.13/microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.13/microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.extensions.primitives/3.1.13/microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

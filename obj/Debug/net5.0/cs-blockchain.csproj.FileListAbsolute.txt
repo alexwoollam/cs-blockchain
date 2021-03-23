@@ -14,3 +14,12 @@
 /c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/ref/cs-blockchain.dll
 /c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.pdb
 /c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.genruntimeconfig.cache
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/Microsoft.Extensions.Configuration.dll
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Json.dll
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Physical.dll
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/c/Users/WoollamA/www/cs-blockchain/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/c/Users/WoollamA/www/cs-blockchain/obj/Debug/net5.0/cs-blockchain.csproj.CopyComplete
